@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "pre": "JUNE 10-18 • MAINLINE THEATRE",
+    "h1": "personal/universal",
+    "p": [
+      "Experience the magic of playback theatre — a one-of-a-kind theatrical experience where your personal stories take center stage!"
+    ],
+    "link": {
+      "url": "https://montrealfringe.online.red61.ca/event/2030:302/",
+      "text": "Get ticket"
+    },
+    "img": {
+      "filepath": "src/assets/flower.jpg",
+      "alt": "personal/universal illustration: hand holding purple flower"
+    }
+  },
+  "about": {
+    "h2": "ABOUT THE SHOW",
+    "p": [
+      "Get ready for an unforgettable night as the Ottawauteurs debut their inaugural performance, personal/universal at the Mainline Theatre, June 10-18! Breaking new ground at the Fringe, this show combines storytelling, improvisation, and interactive theatre — promising audiences a unique and dynamic production.",
+      "You are invited to share something from your life and then watch as it is transformed into an embodied collage of movement, music, and metaphor. Laugh, cry, connect, and reflect as we honour the diverse and collective experiences of our audiences."
+    ],
+    "quote": {
+      "p": [
+        "We are excited to bring Playback Theatre to the Montreal Fringe for the very first time!",
+        "Playback is a powerful form of participatory theatre that is used in over 70 countries around the world. We wanted to offer Fringe-goers something new and special... a welcoming and supportive environment for their own voices to be heard, and then re-enacted in a meaningful and moving way.",
+        "Fostering community has always been my raison d’être, but coming out of this pandemic, now more than ever, it’s important we find ways to build bridges and create a sense of belonging.”"
+      ],
+      "h3": "SHANNON RZUCIDLO",
+      "post": "Founder of Ottawauteurs & Producer of personal/universal"
+    },
+    "img": {
+      "file": "src/assets/hands.jpg",
+      "alt": "personal/universal crew holding their hands out in a circle"
+    }
+  },
+  "crew": {
+    "h2": "MEET THE CREW",
+    "p": [
+      "Don't expect a bunch of men trying too hard to be funny type of improv troupe. We are a talented, multi-generational, all-female collaborative ensemble. As former actors turned drama therapists, we are committed to creating spaces for dialogue, empathy, inclusivity, and transformation. Our goal is to bring our audience’s stories to life in a sensitive and authentic way, exploring the full range of human emotion."
+    ],
+    "members": []
+  },
+  "info": {
+    "h2": "WHEN AND WHERE",
+    "section": {
+      "when": {
+        "h6": "Date and time",
+        "li": [
+          "Saturday, June 10, 19: 15 - 20: 00",
+          "Sunday, June 11, 16: 45-17: 30",
+          "Tuesday, June 13, 22: 15-23: 00",
+          "Thursday, June 15, 22: 15-23: 00",
+          "Friday, June 16, 20: 30-21: 15",
+          "Sunday, June 18, 14: 30-15: 15"
+        ]
+      },
+      "where": {
+        "h6": "Location",
+        "li": [
+          "3997 Saint-Laurent",
+          "VENUE 5 | Mainline Theatre"
+        ],
+        "p": [
+          "This show takes place in Tiohtià:ke/Montréal, the unceded Indigenous lands of the Kanien'kehá:ka/Mohawk Nation."
+        ]
+      },
+      "tix": {
+        "h6": "Tickets",
+        "link": {
+          "url": "https://www.montrealfringe.ca/",
+          "text": "montrealfringe.ca"
+        },
+        "phone": "514-849-FEST"
+      }
+    }
+  },
+  "social": {
+    "facebook": "https: //www.facebook.com/personaluniversalfringe",
+    "instagram": "https://www.instagram.com/personal.universal/",
+    "twitter": "https://twitter.com/personunivers",
+    "email": "personal.universal.fringe@gmail.com"
+  }
+}
