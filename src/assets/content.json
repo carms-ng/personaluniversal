@@ -10,7 +10,7 @@
       "text": "Get ticket"
     },
     "img": {
-      "filepath": "src/assets/flower.jpg",
+      "filename": "flower.jpg",
       "alt": "personal/universal illustration: hand holding purple flower"
     }
   },
@@ -30,7 +30,7 @@
       "post": "Founder of Ottawauteurs & Producer of personal/universal"
     },
     "img": {
-      "file": "src/assets/hands.jpg",
+      "filename": "hands.jpg",
       "alt": "personal/universal crew holding their hands out in a circle"
     }
   },

@@ -1,6 +1,6 @@
 <template>
   <section>
-    <img :src=content.img.filepath :alt=content.img.alt />
+    <img :src="getImageUrl(content.img.filename)" :alt=content.img.alt />
     <div className="card-hero">
       <small>{{ content.pre }}</small>
       <h1>{{ content.h1 }}</h1>
@@ -121,6 +121,11 @@ export default {
   data() {
     return {
       content: content.hero
+    }
+  },
+  methods: {
+    getImageUrl(filename) {
+      return new URL(`../assets/${filename}`, import.meta.url).href
     }
   }
 }
