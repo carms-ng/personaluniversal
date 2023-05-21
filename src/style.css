@@ -14,6 +14,7 @@
   --brown: #734C2D;
   --off-white: rgba(255, 255, 255, 0.8);
   --off-brown: #F7E3D0;
+  --br: 1rem;
 
   background-color: var(--off-brown);
   color: var(--purple-dark);
