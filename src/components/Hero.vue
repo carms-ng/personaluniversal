@@ -1,10 +1,10 @@
 <template>
   <section>
     <div className="img-wrapper">
-      <img :src="getImageUrl(content.img.filename)" :alt=content.img.alt />
+      <Image :filename=content.img.filename :alt=content.img.alt />
       <AnimatedLogo />
     </div>
-    <div className="card-hero">
+    <div className="card card-hero">
       <small>{{ content.small }}</small>
       <h1>{{ content.h1 }}</h1>
       <p v-for="pp in content.p" :key="pp">
@@ -22,32 +22,30 @@
 </template>
 
 <style scoped>
-h1 {
-  font-size: 2rem;
-  line-height: 1;
-  margin: 0;
-  color: var(--purple);
-  font-style: italic;
-}
 small {
   font-weight: 700;
   color: var(--purple);
+}
+section {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: 1fr auto;
 }
 .img-wrapper {
   overflow: hidden;
 }
 .img-wrapper img {
   width: 100%;
-  height: 60vh;
+  height: 100%;
   object-fit: cover;
 }
 
 .card-hero {
-  padding: 1rem;
   text-align: left;
   display: grid;
-  place-content: space-between;
-  height: 40vh;
+  margin: 0;
+  margin-bottom: 1rem;
+  gap: 1rem;
 }
 
 .btn-primary {
@@ -69,25 +67,15 @@ small {
   small {
     font-size: 1.25rem;
   }
-  h1 {
-    font-size: 3rem;
-  }
-  p {
-    font-size: 1.25rem;
-  }
   .btn-primary {
     font-size: 1.5rem;
     height: 4rem;
-  }
-  .card-hero {
-    padding: 2rem;
   }
 }
 
 @media (min-width: 1024px) {
   section {
-    display: grid;
-    height: 100vh;
+    grid-template-rows: unset;
   }
   section > .img-wrapper {
     grid-column: 1 / 12;
@@ -108,7 +96,6 @@ small {
     max-width: 640px;
     height: unset;
     max-height: 640px;
-    padding: 3rem;
     gap: 1.5rem;
   }
 }
@@ -118,6 +105,7 @@ small {
 <script>
 import content from '../assets/content.json'
 import AnimatedLogo from './AnimatedLogo.vue'
+import Image from './Image.vue'
 
 export default {
   data() {
@@ -132,6 +120,7 @@ export default {
   },
   components: {
     AnimatedLogo,
+    Image,
   }
 }
 </script>

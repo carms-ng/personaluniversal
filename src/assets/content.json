@@ -20,6 +20,10 @@
       "Get ready for an unforgettable night as the Ottawauteurs debut their inaugural performance, personal/universal at the Mainline Theatre, June 10-18! Breaking new ground at the Fringe, this show combines storytelling, improvisation, and interactive theatre — promising audiences a unique and dynamic production.",
       "You are invited to share something from your life and then watch as it is transformed into an embodied collage of movement, music, and metaphor. Laugh, cry, connect, and reflect as we honour the diverse and collective experiences of our audiences."
     ],
+    "img": {
+      "filename": "hands.jpg",
+      "alt": "personal/universal crew holding their hands out in a circle"
+    },
     "quote": {
       "p": [
         "We are excited to bring Playback Theatre to the Montreal Fringe for the very first time!",
@@ -27,11 +31,11 @@
         "Fostering community has always been my raison d’être, but coming out of this pandemic, now more than ever, it’s important we find ways to build bridges and create a sense of belonging.”"
       ],
       "h3": "SHANNON RZUCIDLO",
-      "post": "Founder of Ottawauteurs & Producer of personal/universal"
-    },
-    "img": {
-      "filename": "hands.jpg",
-      "alt": "personal/universal crew holding their hands out in a circle"
+      "post": "Founder of Ottawauteurs & Producer of personal/universal",
+      "img": {
+        "filename": "Fringe_logo.png",
+        "alt": "Montreal Fringe Festival Logo"
+      }
     }
   },
   "crew": {
