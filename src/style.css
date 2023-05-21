@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Open+Sans:ital,wght@0,400;0,600;1,400;1,600;1,800&display=swap');
+
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Limelight', cursive;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -49,6 +52,7 @@ h1 {
   margin: 0;
 }
 h1, h2 {
+  font-family: 'Limelight', cursive;
   color: var(--purple);
   font-style: italic;
 }

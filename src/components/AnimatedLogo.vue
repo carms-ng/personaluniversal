@@ -5,6 +5,7 @@
 
 <style scoped>
 p {
+  font-family: 'Limelight', cursive;
   position: absolute;
   font-size: 1.5rem;
   font-weight: 600;
