@@ -44,12 +44,23 @@ export default {
     },
     closeModal() {
       this.activeMember = null
-      console.log('close')
-    }
+    },
+    closeModalOnEscapeKeydown(e) {
+      if (e.key === 'Escape') this.activeMember = null
+    },
   },
   components: {
     MemberAvatar,
     MemberModal,
+  },
+  watch: {
+    activeMember(newMember, _oldMember) {
+      if (!!newMember) {
+        window.addEventListener('keydown', this.closeModalOnEscapeKeydown)
+      } else {
+        window.removeEventListener('keydown', this.closeModalOnEscapeKeydown)
+      }
+    }
   }
 }
 </script>

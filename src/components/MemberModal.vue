@@ -16,7 +16,6 @@
 </template>
 
 <style scoped>
-
 #overlay {
   position: fixed;
   overflow: hidden;
@@ -64,14 +63,10 @@ button {
     left: 50vw;
     transform: translate(-50%, -50%);
     width: 720px;
-
     height: 720px;
   }
 }
 
-@media (min-width: 1024px) {
-
-}
 </style>
 
 <script>
@@ -89,6 +84,6 @@ export default {
   },
   components: {
     MemberAvatar,
-  }
+  },
 }
 </script>
