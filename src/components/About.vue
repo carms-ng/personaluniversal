@@ -29,7 +29,7 @@ img {
   section {
     display: grid;
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
   }
@@ -46,6 +46,7 @@ img {
 
     object-fit: cover;
     height: 100vh;
+    width: 100%;
   }
 }
 
