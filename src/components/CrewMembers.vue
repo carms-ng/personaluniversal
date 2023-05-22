@@ -55,8 +55,10 @@ export default {
     activeMember(newMember, _oldMember) {
       if (!!newMember) {
         window.addEventListener('keydown', this.closeModalOnEscapeKeydown)
+        document.body.style.overflowY = 'hidden'
       } else {
         window.removeEventListener('keydown', this.closeModalOnEscapeKeydown)
+        document.body.style.overflowY = 'inherit'
       }
     }
   }
