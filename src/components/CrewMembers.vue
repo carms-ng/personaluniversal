@@ -17,11 +17,9 @@
 <style scoped>
   button {
     border: unset;
-    border-radius: 50%;
     background: transparent;
     cursor: pointer;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+    border-radius: 50%;
   }
 </style>
 

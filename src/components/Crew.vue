@@ -13,13 +13,18 @@
  </template>
 
 <style scoped>
-section {
-  display: grid;
-  place-items: center;
+#members {
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
 }
 @media (min-width: 768px) {
   section {
     padding: 2rem;
+    display: grid;
+    justify-items: center;
   }
   .card {
     padding: 2rem;
@@ -32,18 +37,13 @@ section {
 
 @media (min-width: 1240px) {
   section {
-    display: grid;
-    grid-template-columns: repeat(12, 1fr);
+    padding: 0 calc(100vw / 12);
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    align-items: center;
   }
   .card {
-    grid-column: 2 / 6;
-    grid-row: 2 / 11;
-    align-self: center;
-  }
-  #members {
-    grid-column: 6 / 12;
-    grid-row: 2 / 11;
+    padding: 3rem;
   }
 }
 
