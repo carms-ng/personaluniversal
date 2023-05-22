@@ -41,11 +41,20 @@ body {
   margin: 0;
   padding: 0;
 }
+section {
+  min-height: 100vh;
+  height: 100%;
+}
 
 a {
   font-weight: 500;
   text-decoration: none;
+  color: var(--purple);
 }
+a:hover {
+  color: var(--dark-purple);
+}
+
 h1 {
   font-size: 2rem;
   line-height: 1;
@@ -56,20 +65,22 @@ h1, h2, h3 {
   color: var(--purple);
   font-style: italic;
 }
-
 h2, h3 {
   font-weight: 600;
 }
-
+h6 {
+  font-size: 1rem;
+  margin: 0.5rem 0 1rem 0;
+}
 p {
   margin: 0 0 2rem 0;
   color: var(--purple-dark);
   font-weight: 400;
 }
-
-section {
-  min-height: 100vh;
-  height: 100%;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .card {

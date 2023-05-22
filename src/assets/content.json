@@ -114,35 +114,37 @@
   },
   "info": {
     "h2": "WHEN AND WHERE",
-    "section": {
-      "when": {
-        "h6": "Date and time",
-        "li": [
-          "Saturday, June 10, 19: 15 - 20: 00",
-          "Sunday, June 11, 16: 45-17: 30",
-          "Tuesday, June 13, 22: 15-23: 00",
-          "Thursday, June 15, 22: 15-23: 00",
-          "Friday, June 16, 20: 30-21: 15",
-          "Sunday, June 18, 14: 30-15: 15"
-        ]
+    "when": {
+      "h6": "Date and time",
+      "li": [
+        "Saturday, June 10, 19: 15 - 20: 00",
+        "Sunday, June 11, 16: 45-17: 30",
+        "Tuesday, June 13, 22: 15-23: 00",
+        "Thursday, June 15, 22: 15-23: 00",
+        "Friday, June 16, 20: 30-21: 15",
+        "Sunday, June 18, 14: 30-15: 15"
+      ]
+    },
+    "where": {
+      "h6": "Location",
+      "li": [
+        "3997 Saint-Laurent",
+        "VENUE 5 | Mainline Theatre"
+      ],
+      "p": [
+        "This show takes place in Tiohtià:ke/Montréal, the unceded Indigenous lands of the Kanien'kehá:ka/Mohawk Nation.",
+        "There are 30 steps to get to the venue. There is no elevator."
+      ]
+    },
+    "tix": {
+      "h6": "Tickets",
+      "website": {
+        "href": "https://www.montrealfringe.ca/",
+        "text": "montrealfringe.ca"
       },
-      "where": {
-        "h6": "Location",
-        "li": [
-          "3997 Saint-Laurent",
-          "VENUE 5 | Mainline Theatre"
-        ],
-        "p": [
-          "This show takes place in Tiohtià:ke/Montréal, the unceded Indigenous lands of the Kanien'kehá:ka/Mohawk Nation."
-        ]
-      },
-      "tix": {
-        "h6": "Tickets",
-        "link": {
-          "url": "https://www.montrealfringe.ca/",
-          "text": "montrealfringe.ca"
-        },
-        "phone": "514-849-FEST"
+      "phone": {
+        "href": "tel:514-849-3378",
+        "text": "514-849-FEST"
       }
     }
   },

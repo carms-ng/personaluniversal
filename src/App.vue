@@ -3,6 +3,7 @@
   <About />
   <Quote />
   <Crew />
+  <Info />
 </template>
 
 <style scoped>
@@ -13,6 +14,7 @@ import Hero from './components/Hero.vue'
 import About from './components/About.vue'
 import Quote from './components/Quote.vue'
 import Crew from './components/Crew.vue'
+import Info from './components/Info.vue'
 
 export default {
   components: {
@@ -20,6 +22,7 @@ export default {
     About,
     Quote,
     Crew,
+    Info,
   }
 }
 </script>
