@@ -55,8 +55,6 @@ img {
   }
 }
 
-
-
 </style>
 
 <script>

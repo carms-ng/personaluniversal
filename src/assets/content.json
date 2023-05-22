@@ -143,15 +143,15 @@
         "text": "montrealfringe.ca"
       },
       "phone": {
-        "href": "tel:514-849-3378",
+        "href": "tel:+15148493378",
         "text": "514-849-FEST"
       }
     }
   },
   "social": {
-    "facebook": "https: //www.facebook.com/personaluniversalfringe",
+    "facebook": "https://www.facebook.com/personaluniversalfringe",
     "instagram": "https://www.instagram.com/personal.universal/",
     "twitter": "https://twitter.com/personunivers",
-    "email": "personal.universal.fringe@gmail.com"
+    "email": "mailto:personal.universal.fringe@gmail.com"
   }
 }

@@ -4,6 +4,7 @@
   <Quote />
   <Crew />
   <Info />
+  <Footer />
 </template>
 
 <style scoped>
@@ -15,6 +16,7 @@ import About from './components/About.vue'
 import Quote from './components/Quote.vue'
 import Crew from './components/Crew.vue'
 import Info from './components/Info.vue'
+import Footer from './components/Footer.vue'
 
 export default {
   components: {
@@ -23,6 +25,7 @@ export default {
     Quote,
     Crew,
     Info,
+    Footer
   }
 }
 </script>
