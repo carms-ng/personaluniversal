@@ -1,11 +1,3 @@
-<script setup>
-defineProps({
-  filename: String,
-  alt: String,
-})
-
-</script>
-
 <template>
   <img :src="getImageUrl(filename)" :alt=alt />
 </template>

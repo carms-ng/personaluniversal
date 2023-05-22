@@ -51,7 +51,7 @@ h1 {
   line-height: 1;
   margin: 0;
 }
-h1, h2 {
+h1, h2, h3 {
   font-family: 'Limelight', cursive;
   color: var(--purple);
   font-style: italic;
