@@ -43,7 +43,74 @@
     "p": [
       "Don't expect a bunch of men trying too hard to be funny type of improv troupe. We are a talented, multi-generational, all-female collaborative ensemble. As former actors turned drama therapists, we are committed to creating spaces for dialogue, empathy, inclusivity, and transformation. Our goal is to bring our audience’s stories to life in a sensitive and authentic way, exploring the full range of human emotion."
     ],
-    "members": []
+    "members": [
+      {
+        "name": "Shannon Rzucidlo",
+        "bio": [
+          "Shannon Rzucidlo is an American living in Canada and still trying to figure out her identity, which makes the process of writing a bio to be a confusing endeavor for her! Born and raised in rural Arizona, Shannon never really felt ‘at home’ and repressed many aspects of herself. Since being in Canada surrounded by more like-minded folks, she has learned to embrace her queer, neuro-divergent, Jewish identity.  Given that she spent 24 years living in a conservative environment she still has many blind spots and is actively working to unlearn most of the things she was raised to believe. She holds a master’s degree in drama therapy and enjoys rock climbing, reading, acro yoga, and complicated board games. She is most proud of her self-supported bikepacking trip through the Canadian Rockies without dying."
+        ],
+        "img": {
+          "filename": "shannon.jpg"
+        }
+      },
+      {
+        "name": "Big Daddy Queen Power",
+        "bio": [
+          "Big Daddy Queen Power is a Korean-Italian singer-songwriter and multi-instrumentalist lucky enough to be born and raised in the vibrant city of Tiohti:áke (Montreal). Her music is inspired by experiences of self love, growth, and friendships representing light and darkness by exploring different avenues of power in both polarities.",
+          "A believer of magic and manifestation, Big Daddy is on a mission to elevate the community through joy and playfulness and to spread love through her music, with the greater goal of facilitating an experience of Expansion for the community and those who share the journey with her. Her live shows can be characterized as magnetic, energetic and engaging, vibrating in gratitude.",
+          "In addition to performing, she also has a dream of opening a Creative Community Centre in Montreal, a place where people can come together and feel inspired to express themselves freely, learn music and other art forms, while allowing their creativity to flourish without judgment. She believes Music is a universal language of love as it fosters deep connections among people of all different backgrounds.",
+          "Loved by the ladies, wanted by the man, Big Daddy's voice will touch you in places you've never been touched. Big Daddy will satisfy your every musical desire and (oh) so much more..."
+        ],
+        "img": {
+          "filename": "big_daddy_queen_power.jpg"
+        }
+      },
+      {
+        "name": "Leigh Bulmer",
+        "bio": [
+          "Leigh is very excited to be a part of the personal/universal Playback Theatre Performance at the Fringe Festival 2023 in Montreal.    She has been a passionate playback theatre member of the Montreal Playback Theatre for the past 23 years.  Leigh is a drama therapist in private practice and a resource teacher at the Riverside School Board.  Leigh has performed playback shows for a variety of communities including seniors, elementary schools, nurses, and families from the Montreal Children’s Hospital oncology department.  She also is involved with the Theatre St-Bruno Players (TSTB) recently with the role of Hwel (the playwright) in Wyrd Sisters. Leigh is looking forward to reveling in the Fringe celebration!"
+        ],
+        "img": {
+          "filename": "leigh.jpg"
+        }
+      },
+      {
+        "name": "Hilda Coker",
+        "bio": [
+          "Hilda Coker is a plant lover who is still learning the art of plant loving and living. A drama therapist and counsellor by day: Hilda is thrilled to be part of this Fringe playback group. Hilda, a  playback novice, is excited to bear witness and hold space with her fellow cast-mates and members of the audience."
+        ],
+        "img": {
+          "filename": "hilda.jpg"
+        }
+      },
+      {
+        "name": "Natasha Williot (she/her)",
+        "bio": [
+          "Natasha is a 3rd generation settler of French and Dutch descent born in Ontario and located in Tio’tia:ke (Montréal) since 2017. She runs a private practice as a drama therapist for neurodivergent, Queer, multicultural, and indigenous folkx. For her, theatre and dramatic arts are only as fun as the community and the purpose they serve, communicating body to body in ways that ‘just words’ simply can’t.  And connecting body to body is the way we can take down the violent systems that try to make us forget what it means to be alive!"
+        ],
+        "img": {
+          "filename": "natasha.jpg"
+        }
+      },
+      {
+        "name": "Christine Ann Lavoie",
+        "bio": [
+          "Christine is a warrior, healer, educator and playbacker. She dwells on the banks of the Great River, on the ancestral lands of her grandmother’s people, unceded, unrelenting and unreconciled. At night the river whispers it's stories to her. . ."
+        ],
+        "img": {
+          "filename": "christine.jpg"
+        }
+      },
+      {
+        "name": "Vera Kisfalvi",
+        "bio": [
+          "I came to Montreal from Hungary as a child refugee in 1958. Ever since, I’ve felt like an outlier/stranger, and this has led me to do some odd things. Hired in 1989 by HEC Montréal, I taught management for 26 years. As a Jewish woman who had studied drama at McGill, and who spoke French with an instantly recognisable English accent (still do), my sense of difference and imposture was definitely heightened. In parallel, I joined Montreal Playback Theatre as actor an in 2002. Am still seeking novelty, thrills and connections."
+        ],
+        "img": {
+          "filename": "vera.png"
+        }
+      }
+    ]
   },
   "info": {
     "h2": "WHEN AND WHERE",
